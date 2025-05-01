@@ -19,8 +19,8 @@
   <h3><code>🛠️</code> Ferramentas</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="40" alt="Icons Ferramentas" />
   <!-- Sistema Operacional -->
-  <h3><code>🚀</code> Sistema Operacional</h3>
-  <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="40" alt="Icons Sistema Operacional" />
+<!--   <h3><code>🚀</code> Sistema Operacional</h3>
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="40" alt="Icons Sistema Operacional" /> -->
 </div>
 
 ---
