@@ -25,4 +25,4 @@
 
 ---
 
-###### Copyright © 2025 / [Vitor Hugo](https://github.com/uvitordev)
+###### Copyright © 2025 / [Vitor Hugo](https://github.com/vitor0z)
