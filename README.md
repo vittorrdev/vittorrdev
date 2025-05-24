@@ -1,9 +1,9 @@
 <div>
   <h2><code>👋🏽</code> Olá, meu nome é Vitor Hugo!</h2>
-  <h4><code>🧠</code> • Estudante de Desenvolvimento FullStack</h4>
+  <h4><code>🧠</code> • Estudante de Desenvolvimento Back-end</h4>
 </div>
 
-###### Tenho 20 anos e atualmente estou **estudando Go (Golang)**, com foco em back-end, e tenho experiência na construção de interfaces utilizando apenas **HTML**, **CSS** e **JS**. Estou sempre em busca de novos desafios e aprendizados na área de desenvolvimento, com o objetivo de aprimorar minhas habilidades e criar soluções perfeita e diferentes.
+###### Tenho 20 anos e atualmente estou **estudando Go (Golang)**, com foco em back-end, e tenho experiência na construção de interfaces utilizando apenas **HTML**, **CSS** e **JS**. Estou sempre em busca de novos desafios e aprendizados na área de desenvolvimento, com o objetivo de aprimorar minhas habilidades e criar soluções perfeitas e diferentes.
 
 ---
 
@@ -19,8 +19,8 @@
   <h3><code>🛠️</code> Ferramentas</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="40" alt="Icons Ferramentas" />
   <!-- Sistema Operacional -->
-<!--   <h3><code>🚀</code> Sistema Operacional</h3>
-  <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="40" alt="Icons Sistema Operacional" /> -->
+  <h3><code>🚀</code> Sistema Operacional</h3>
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="40" alt="Icons Sistema Operacional" />
 </div>
 
 ---
