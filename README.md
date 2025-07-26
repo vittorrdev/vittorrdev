@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,next,vue,sass&theme=dark" height="40" alt="Icons Back-end" />
   <!-- Ferramentas -->
   <h3><code>🛠️</code> Ferramentas</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,cursour&theme=dark" height="40" alt="Icons Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" height="40" alt="Icons Ferramentas" />
   <!-- Sistema Operacional -->
   <h3><code>🚀</code> Sistema Operacional</h3>
   <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="40" alt="Icons Sistema Operacional" />
