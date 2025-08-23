@@ -1,9 +1,9 @@
 <div>
   <h2><code>🙋🏽‍♂️</code> Olá, meu nome é Vitor Hugo!</h2>
-  <h4><code>🧠</code> • Desenvolvedor Full-Stack</h4>
+  <h4><code>🧠</code> • Desenvolvedor Front-end</h4>
 </div>
 
-###### Tenho 20 anos e atualmente estou **estudando Go (Golang)**, com foco em back-end, e tenho experiência na construção de interfaces. Estou sempre em busca de novos desafios e aprendizados na área de desenvolvimento, com o objetivo de aprimorar minhas habilidades e criar soluções perfeitas e diferentes.
+###### Tenho 20 anos e experiência em backend com Lua (cfx.re). Busco sempre aprender e desenvolver soluções eficientes e diferentes.
 
 ---
 
