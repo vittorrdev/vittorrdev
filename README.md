@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=lua,go&theme=dark" height="40" alt="Icons Back-end" />
   <!-- Back-end -->
   <h3><code>💻</code> Front-end</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,vite,next&theme=dark" height="40" alt="Icons Back-end" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,next,vue&theme=dark" height="40" alt="Icons Back-end" />
   <!-- Ferramentas -->
   <h3><code>🛠️</code> Ferramentas</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" height="40" alt="Icons Ferramentas" />
